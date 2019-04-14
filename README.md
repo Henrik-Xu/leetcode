@@ -6,26 +6,22 @@ This project is to supply you an environment to debug your leetcode.
 
 ### download
 
-you can either clone or download this repository then cd into javascript folder.
+For debug C# projects, first you should download [.net core sdk](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install).if you download sdk successful, rum cmd
 
-execute:
+and type `dotnet`,If the command runs, printing out information about how to use dotnet, you're good to go.
 
-```
-yarn install
-```
+then install C# extension in vscode extension.
 
 ### work
 
-Choice 1: you can run through [code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension or
-
-copy your code into root `index.ts`,then debug your code through node in local.
+Choice 1: copy your code into root `Program.cs`,then debug your code through `F5` in local.
 
 Choice 2: copy code to [leetcode](https://leetcode.com/problems) solution to get online test.
 
 ### start
 
 ```
-yarn start
+dotnet run
 ```
 
 ### problems
