@@ -25,3 +25,5 @@ dotnet run
 ```
 
 ### problems
+
+[1.Two Sum](https://github.com/Damon-Salvatore/leetcode/tree/C%23/problems/1)
