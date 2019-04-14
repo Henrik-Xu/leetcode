@@ -32,18 +32,18 @@ yarn start
 
 [1.Two Sum](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/1)
 
-[7.Reverse Integer](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/7)
+[7.Reverse Integer](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/7/reverseInteger.js)
 
-[9.Palindrome Integer](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/9)
+[9.Palindrome Integer](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/9/Reverse_Integer.js)
 
-[13.Roman to Integer](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/13)
+[13.Roman to Integer](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/13/roman_to_interger.js)
 
-[14.Longest Common Prefix](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/14)
+[14.Longest Common Prefix](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/14/longest_common_prefix.js)
 
-[20.Valid Parentheses](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/20)
+[20.Valid Parentheses](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/20//valid_parenthese.js)
 
-[21.Merge Two Sorted Lists](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/21)
+[21.Merge Two Sorted Lists](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/21/Merge_Two_Sorted_List.js)
 
-[26.Remove Duplicates from Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/26)
+[26.Remove Duplicates from Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/26/Remove_Duplicates_from_Sorted_Array.js)
 
 [27.Remove Element](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/27)
