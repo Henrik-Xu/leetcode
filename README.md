@@ -47,3 +47,9 @@ yarn start
 [26.Remove Duplicates from Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/26/Remove_Duplicates_from_Sorted_Array.js)
 
 [27.Remove Element](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/27)
+
+[28.Implement strStr](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/28/Implement_strStr.js)
+
+[35.Search Insert Position](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/35/Search_Insert_Position.js)
+
+[38.Count and Say](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/38/Count_and_Say.js)
