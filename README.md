@@ -2,7 +2,7 @@
 
 [leetcode](https://leetcode.com/problems)
 
-This project is to supply you an environment to debug your leetcode.
+This project is teach you how to debug your java solution.
 
 ### java
 
