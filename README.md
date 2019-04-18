@@ -2,7 +2,7 @@
 
 [leetcode](https://leetcode.com/problems)
 
-This project is to supply you an environment to debug your leetcode.
+This project is to teach you how to debug js solution with VS Code.
 
 ### download
 
