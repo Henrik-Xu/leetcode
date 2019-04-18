@@ -20,15 +20,19 @@ dotnet
 
 Download [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) for Visual Studio Code (powered by OmniSharp).
 
-Also you can optional chose [C# Extension](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions),[C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat)
-
-[C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
+Also you can optional chose [C# Extension](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions),[C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat),[C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
 
 ### Workspace
 
 Choice 1: copy your code into root `Program.cs`,then debug your code through `F5` in local.
 
 Choice 2: copy code to [leetcode](https://leetcode.com/problems) solution to get online test.
+
+### Build
+
+```
+dotnet build
+```
 
 ### Start
 
