@@ -53,3 +53,9 @@ yarn start
 [35.Search Insert Position](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/35/Search_Insert_Position.js)
 
 [38.Count and Say](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/38/Count_and_Say.js)
+
+[53.Maximum Subarray](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/53/Maximum_Subarray.js)
+
+[58.Length of Last Word](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/58/Length_of_Last_Word.js)
+
+[66.Plus_One](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/66/Plus_One.js)
