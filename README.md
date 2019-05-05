@@ -61,3 +61,5 @@ yarn start
 [66.Plus One](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/66/Plus_One.js)
 
 [67.Add Binary](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/67/Add_Binary.js)
+
+[69.Sqrt(x)](<https://github.com/Damon-Salvatore/leetcode/blob/js/problems/69/Sqrt(x).js>)
