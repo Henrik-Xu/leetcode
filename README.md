@@ -58,4 +58,6 @@ yarn start
 
 [58.Length of Last Word](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/58/Length_of_Last_Word.js)
 
-[66.Plus_One](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/66/Plus_One.js)
+[66.Plus One](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/66/Plus_One.js)
+
+[67.Add Binary](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/67/Add_Binary.js)
