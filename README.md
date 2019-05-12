@@ -63,3 +63,5 @@ yarn start
 [67.Add Binary](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/67/Add_Binary.js)
 
 [69.Sqrt(x)](<https://github.com/Damon-Salvatore/leetcode/blob/js/problems/69/Sqrt(x).js>)
+
+[\* 70.Climbing Stairs](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/70/Climbing_Stairs.js)
