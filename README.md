@@ -66,6 +66,8 @@ yarn start
 
 [\* 70.Climbing Stairs](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/70/Climbing_Stairs.js)
 
+[80.Remove Duplicates from Sorted List](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/80/Remove_Duplicates_from_Sorted_List.js)
+
 [88.Merge Sorted Array](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/88/Merge_Sorted_Array.js)
 
 [100.Same Tree](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/100/Same_Tree.js)
