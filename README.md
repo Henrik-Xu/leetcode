@@ -71,3 +71,7 @@ yarn start
 [88.Merge Sorted Array](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/88/Merge_Sorted_Array.js)
 
 [100.Same Tree](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/100/Same_Tree.js)
+
+[\*101.Symmetric Tree](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/101/Symmetric_Tree.js)
+
+[\*104.Maximum Depth of Binary Tree](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/104/Maximum_Depth_of_Binary_Tree.js)
