@@ -9,10 +9,6 @@ var generate = function(numRows) {
   result[0].push(1);
   if (numRows == 1) return result;
 
-  result[1] = [];
-  result[1].push(1, 1);
-  if (numRows == 2) return result;
-
   for (let i = 2; i < numRows; i++) {
     result[i] = [];
     result[i].push(1);
