@@ -77,3 +77,37 @@ yarn start
 [\*104.Maximum Depth of Binary Tree](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/104/Maximum_Depth_of_Binary_Tree.js)
 
 [\*110.Binary Tree Level Order Traversal II](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/110/Binary_Tree_Level_Order_Traversal_II.js)
+
+[111.Minimum Depth of Binary Tree](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/111/Minimum_Depth_of_Binary_Tree.js)
+
+[112.Path Sum](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/112/Path_Sum.js)
+
+[118.Pascal's Triangle](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/118/Pascal's_Triangle.js)
+
+[119.Pascal's Triangle II](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/119/Pascal's_Triangle_II.js)
+
+[121.Best Time to Buy and Sell Stock](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/121)
+
+[122.Best Time to Buy and Sell Stock II](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/122/Best_Time_to_Buy_and_Sell_Stock_II.js)
+
+[125.Valid Palindrome](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/125/Valid_Palindrome.js)
+
+[136.Single Number](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/136)
+
+[141.Linked List Cycle](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/141)
+
+[155.Min Stack](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/155/Min_Stack.js)
+
+[175.Combine Two Tables](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/175/Combine_Two_Tables.sql)
+
+[176.Second Highest Salary](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/176/Second_Highest_Salary.sql)
+
+[177.Nth Highest Salary](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/177/Nth_Highest_Salary.sql)
+
+[178.Rank Scores](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/178/Rank_Scores.sql)
+
+[181.Employees Earning More Than Their Managers](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/181)
+
+[182.Duplicate Emails](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/182)
+
+[183.Customers Who Never Order](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/183/Customers_Who_Never_Order.sql)
