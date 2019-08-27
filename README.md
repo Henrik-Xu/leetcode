@@ -98,6 +98,18 @@ yarn start
 
 [155.Min Stack](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/155/Min_Stack.js)
 
+[160.Intersection of Two Linked Lists](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/160/readme.md)
+
+[167.Two Sum II Input array is sorted](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/167/readme.md)
+
+[168.Excel Sheet Column Title](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/168/Excel_Sheet_Column_Title.js)
+
+[169.Majority Element](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/169/readme.md)
+
+[171.Excel Sheet Column Number](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/171/Excel_Sheet_Column_Number.js)
+
+[172.Factorial Trailing Zeroes](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/172/Factorial_Trailing_Zeroes.js)
+
 [175.Combine Two Tables](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/175/Combine_Two_Tables.sql)
 
 [176.Second Highest Salary](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/176/Second_Highest_Salary.sql)
@@ -111,3 +123,13 @@ yarn start
 [182.Duplicate Emails](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/182)
 
 [183.Customers Who Never Order](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/183/Customers_Who_Never_Order.sql)
+
+[189.Rotate Array](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/189/readme.md)
+
+[190.Reverse_Bits](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/190/Reverse_Bits.js)
+
+[191.Number of 1 Bits](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/191/Number_of_1_Bits.js)
+
+[196.Delete Duplicate Emails](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/196/Delete_Duplicate_Emails.sql)
+
+[197.Rising Temperature](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/197/Rising%20_Temperature.js)
