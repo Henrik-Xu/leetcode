@@ -132,4 +132,4 @@ yarn start
 
 [196.Delete Duplicate Emails](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/196/Delete_Duplicate_Emails.sql)
 
-[197.Rising Temperature](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/197/Rising%20_Temperature.js)
+[197.Rising Temperature](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/197/Rising_Temperature.js)
