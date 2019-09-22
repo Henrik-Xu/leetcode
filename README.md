@@ -134,7 +134,7 @@ yarn start
 
 [197.Rising Temperature](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/197/Rising_Temperature.js)
 
-[198.House Robber](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/198/House_Robber.js)
+[\*198.House Robber](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/198/House_Robber.js)
 
 [202.Happy Number](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/202/Happy_Number.js)
 
