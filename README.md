@@ -133,3 +133,11 @@ yarn start
 [196.Delete Duplicate Emails](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/196/Delete_Duplicate_Emails.sql)
 
 [197.Rising Temperature](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/197/Rising_Temperature.js)
+
+[198.House Robber]()
+
+[202.Happy Number]()
+
+[203.Remove Linked List Elements]()
+
+[204.Count Primes]()
