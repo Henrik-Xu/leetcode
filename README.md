@@ -10,6 +10,4 @@ This project is to teach you how to debug js solution with VS Code.
 
 ### Tree 专区
 
-[Tree]()
-
-
+[Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree)
