@@ -2,7 +2,7 @@
 
 [leetcode](https://leetcode.com/problems)
 
-This project is to teach you how to debug js solution with VS Code.
+leetcode 刷题之路
 
 ### problems
 
