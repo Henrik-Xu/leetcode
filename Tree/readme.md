@@ -67,3 +67,9 @@
 - [437. Path Sum III](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/437)
 
 - [449. Serialize and Deserialize BST](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/449)
+
+- [450. Delete Node in a BST](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/450)
+
+- [501. Find Mode in Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/501)
+
+- [508. Most Frequent Subtree Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/508)
