@@ -73,3 +73,17 @@
 - [501. Find Mode in Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/501)
 
 - [508. Most Frequent Subtree Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/508)
+
+- [513. Most Frequent Subtree Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/513)
+
+- [515. Most Frequent Subtree Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/515)
+
+- [530. Most Frequent Subtree Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/530)
+
+- [538. Most Frequent Subtree Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/538)
+
+- [543. Most Frequent Subtree Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/543)
+
+- [563. Most Frequent Subtree Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/563)
+
+- [572. Most Frequent Subtree Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/572)
