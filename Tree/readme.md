@@ -123,3 +123,9 @@
 - [700. Search in a Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/700)
 
 - [701. Insert into a Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/701)
+
+- [783. Minimum Distance Between BST Nodes](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/783)
+
+- [814. Binary Tree Pruning](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/814)
+
+- [863. All Nodes Distance K in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/863)
