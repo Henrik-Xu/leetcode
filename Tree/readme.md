@@ -129,3 +129,15 @@
 - [814. Binary Tree Pruning](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/814)
 
 - [863. All Nodes Distance K in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/863)
+
+- [865. Smallest Subtree with all the Deepest Nodes](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/865)
+
+- [872. Leaf-Similar Trees](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/872)
+
+- [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/889)
+
+- [894. All Possible Full Binary Trees](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/894)
+
+- [897. Increasing Order Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/897)
+
+- [919. Complete Binary Tree Inserter](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/919)
