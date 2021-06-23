@@ -141,3 +141,9 @@
 - [897. Increasing Order Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/897)
 
 - [919. Complete Binary Tree Inserter](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/919)
+
+- [965. Univalued Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/965)
+
+- [971. Flip Binary Tree To Match Preorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/971)
+
+- [979. Distribute Coins in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/979)
