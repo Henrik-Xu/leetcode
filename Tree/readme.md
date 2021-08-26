@@ -181,3 +181,9 @@
 - [1305. All Elements in Two Binary Search Trees](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1305)
 
 - [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1315)
+
+- [1325. Delete Leaves With a Given Value](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1325)
+
+- [1339. Maximum Product of Splitted Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1339)
+
+- [1367. Linked List in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1367)
