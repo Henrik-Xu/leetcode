@@ -187,3 +187,21 @@
 - [1339. Maximum Product of Splitted Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1339)
 
 - [1367. Linked List in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1367)
+
+- [1372. Longest ZigZag Path in a Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1372)
+
+- [1373. Maximum Sum BST in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1373)
+
+- [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1379)
+
+- [1382. Balance a Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1382)
+
+- [1448. Count Good Nodes in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1448)
+
+- [1457. Pseudo-Palindromic Paths in a Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1457)
+
+- [1530. Number of Good Leaf Nodes Pairs](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1530)
+
+- [1600. Throne Inheritance](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1600)
+
+- [1609. Even Odd Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1609)
