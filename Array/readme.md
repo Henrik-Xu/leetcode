@@ -7,3 +7,5 @@
 - [15. 3Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/11)
 
 - [16. 3Sum Closest](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/16)
+
+- [18. 4Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/18)
