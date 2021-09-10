@@ -11,3 +11,5 @@
 - [18. 4Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/18)
 
 - [26. Remove Duplicates from Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/26)
+
+- [27. Remove Element](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/27)
