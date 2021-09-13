@@ -13,3 +13,5 @@
 - [26. Remove Duplicates from Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/26)
 
 - [27. Remove Element](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/27)
+
+- [31. Next Permutation](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/31)
