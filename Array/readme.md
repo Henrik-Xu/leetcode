@@ -15,3 +15,5 @@
 - [27. Remove Element](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/27)
 
 - [31. Next Permutation](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/31)
+
+- [33. Search in Rotated Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/33)
