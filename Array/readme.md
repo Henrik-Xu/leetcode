@@ -17,3 +17,5 @@
 - [31. Next Permutation](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/31)
 
 - [33. Search in Rotated Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/33)
+
+- [34. Find First and Last Position of Element in Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/34)
