@@ -19,3 +19,9 @@
 - [33. Search in Rotated Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/33)
 
 - [34. Find First and Last Position of Element in Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/34)
+
+- [35. Search Insert Position](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/35)
+
+- [36. Valid Sudoku](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/36)
+
+- [39. Combination Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/39)
