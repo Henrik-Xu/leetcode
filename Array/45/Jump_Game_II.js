@@ -5,18 +5,32 @@
  * Your goal is to reach the last index in the minimum number of jumps.
  * You can assume that you can always reach the last index.
  */
-let jump = function(nums) {
-  let jumps = 0,
-    curEnd = 0,
-    curFarthest = 0;
-  for (let i = 0; i < nums.length - 1; i++) {
-    curFarthest = Math.max(curFarthest, i + nums[i]);
-    if (i == curEnd) {
-      jumps++;
-      curEnd = curFarthest;
+// let jump = function(nums) {
+//   let jumps = 0,
+//     curEnd = 0,
+//     curFarthest = 0;
+//   for (let i = 0; i < nums.length - 1; i++) {
+//     curFarthest = Math.max(curFarthest, i + nums[i]);
+//     if (i == curEnd) {
+//       jumps++;
+//       curEnd = curFarthest;
+//     }
+//   }
+//   return jumps;
+// };
+
+var jump = function(N) {
+  let len = N.length - 1,
+    curr = -1,
+    next = 0,
+    ans = 0;
+  for (let i = 0; next < len; i++) {
+    if (i > curr) {
+      ans++, (curr = next);
     }
+    next = Math.max(next, N[i] + i);
   }
-  return jumps;
+  return ans;
 };
 
 let nums = [2, 3, 3, 1, 4];
