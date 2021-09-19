@@ -28,4 +28,4 @@
 
 - [40. Combination Sum II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/40)
 
-- [45. Jump Game II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/45)
+- [\* 45. Jump Game II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/45)

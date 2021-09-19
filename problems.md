@@ -1,26 +1,46 @@
-[1.Two Sum](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/1)
+[1. Two Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/1)
 
 [7.Reverse Integer](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/7/reverseInteger.js)
 
 [9.Palindrome Integer](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/9/Reverse_Integer.js)
 
+[11. Container With Most Water](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/11)
+
 [13.Roman to Integer](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/13/roman_to_interger.js)
 
 [14.Longest Common Prefix](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/14/longest_common_prefix.js)
+
+[15. 3Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/11)
+
+[16. 3Sum Closest](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/16)
+
+[18. 4Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/18)
 
 [20.Valid Parentheses](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/20//valid_parenthese.js)
 
 [21.Merge Two Sorted Lists](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/21/Merge_Two_Sorted_List.js)
 
-[26.Remove Duplicates from Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/26/Remove_Duplicates_from_Sorted_Array.js)
+[26. Remove Duplicates from Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/26)
 
-[27.Remove Element](https://github.com/Damon-Salvatore/leetcode/tree/master/problems/27)
+[27. Remove Element](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/27)
 
 [28.Implement strStr](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/28/Implement_strStr.js)
 
-[35.Search Insert Position](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/35/Search_Insert_Position.js)
+[31. Next Permutation](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/31)
+
+[33. Search in Rotated Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/33)
+
+[34. Find First and Last Position of Element in Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/34)
+
+[35. Search Insert Position](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/35)
+
+[36. Valid Sudoku](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/36)
 
 [38.Count and Say](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/38/Count_and_Say.js)
+
+[40. Combination Sum II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/40)
+
+[\* 45. Jump Game II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/45)
 
 [53.Maximum Subarray](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/53/Maximum_Subarray.js)
 
