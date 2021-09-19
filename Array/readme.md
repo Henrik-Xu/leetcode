@@ -25,3 +25,5 @@
 - [36. Valid Sudoku](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/36)
 
 - [39. Combination Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/39)
+
+- [40. Combination Sum II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/40)
