@@ -44,6 +44,8 @@
 
 [46. Permutations](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/46)
 
+[47. Permutations II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/47)
+
 [53.Maximum Subarray](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/53/Maximum_Subarray.js)
 
 [58.Length of Last Word](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/58/Length_of_Last_Word.js)

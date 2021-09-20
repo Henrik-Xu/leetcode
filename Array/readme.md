@@ -31,3 +31,5 @@
 - [\* 45. Jump Game II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/45)
 
 - [46. Permutations](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/46)
+
+- [47. Permutations II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/47)
