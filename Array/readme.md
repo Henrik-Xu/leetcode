@@ -33,3 +33,5 @@
 - [46. Permutations](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/46)
 
 - [47. Permutations II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/47)
+
+- [48. Rotate Image](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/48)
