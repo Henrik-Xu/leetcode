@@ -48,7 +48,11 @@
 
 [48. Rotate Image](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/48)
 
-[53.Maximum Subarray](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/53/Maximum_Subarray.js)
+[53. Maximum Subarray](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/53)
+
+[54. Spiral Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/54)
+
+[55. Jump Game](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/55)
 
 [58.Length of Last Word](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/58/Length_of_Last_Word.js)
 
