@@ -54,6 +54,8 @@
 
 [55. Jump Game](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/55)
 
+[56. Merge Intervals](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/56)
+
 [58.Length of Last Word](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/58/Length_of_Last_Word.js)
 
 [66.Plus One](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/66/Plus_One.js)
