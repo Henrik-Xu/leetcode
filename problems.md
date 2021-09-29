@@ -56,7 +56,11 @@
 
 [56. Merge Intervals](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/56)
 
+[57. Insert Interval](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/57)
+
 [58.Length of Last Word](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/58/Length_of_Last_Word.js)
+
+[59. Spiral Matrix II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/59)
 
 [66.Plus One](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/66/Plus_One.js)
 

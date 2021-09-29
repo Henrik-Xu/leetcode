@@ -43,3 +43,9 @@
 - [55. Jump Game](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/55)
 
 - [56. Merge Intervals](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/56)
+
+- [57. Insert Interval](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/57)
+
+- [59. Spiral Matrix II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/59)
+
+- [63. Unique Paths II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/63)

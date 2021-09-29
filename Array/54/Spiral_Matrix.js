@@ -17,10 +17,10 @@ let spiralOrder = function(matrix) {
       res.push(matrix[i][c2]);
     }
     if (r1 < r2 && c1 < c2) {
-      for (let i = c2 - 1; i >= 0; i--) {
+      for (let i = c2 - 1; i >= c1; i--) {
         res.push(matrix[r2][i]);
       }
-      for (let i = r2 - 1; i > 0; i--) {
+      for (let i = r2 - 1; i > r1; i--) {
         res.push(matrix[i][c1]);
       }
     }
@@ -32,6 +32,6 @@ let spiralOrder = function(matrix) {
   return res;
 };
 
-let matrix = [[6, 9, 7]];
+let matrix = [[1, 2, 3, 4], [12, 13, 14, 5], [11, 16, 15, 6], [10, 9, 8, 7]];
 let res = spiralOrder(matrix);
 console.log(res);
