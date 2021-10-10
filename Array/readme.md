@@ -49,3 +49,9 @@
 - [59. Spiral Matrix II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/59)
 
 - [63. Unique Paths II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/63)
+
+- [64. Minimum Path](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/64)
+
+- [66. Plus One](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/66)
+
+- [73. Set Matrix Zeroes](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/73)
