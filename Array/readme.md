@@ -55,3 +55,5 @@
 - [66. Plus One](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/66)
 
 - [73. Set Matrix Zeroes](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/73)
+
+- [74. Search a 2D Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/74)

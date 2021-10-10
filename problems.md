@@ -62,13 +62,21 @@
 
 [59. Spiral Matrix II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/59)
 
-[66.Plus One](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/66/Plus_One.js)
+[63. Unique Paths II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/63)
+
+[64. Minimum Path](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/64)
+
+[66. Plus One](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/66)
 
 [67.Add Binary](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/67/Add_Binary.js)
 
 [69.Sqrt(x)](<https://github.com/Damon-Salvatore/leetcode/blob/js/problems/69/Sqrt(x).js>)
 
 [\* 70.Climbing Stairs](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/70/Climbing_Stairs.js)
+
+[73. Set Matrix Zeroes](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/73)
+
+[74. Search a 2D Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/74)
 
 [80.Remove Duplicates from Sorted List](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/80/Remove_Duplicates_from_Sorted_List.js)
 
