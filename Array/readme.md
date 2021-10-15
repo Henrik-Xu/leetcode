@@ -59,3 +59,17 @@
 - [74. Search a 2D Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/74)
 
 - [75. Sort Colors](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/75)
+
+- [77. Combinations](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/77)
+
+- [78. Subsets](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/78)
+
+- [79. Word Search](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/79)
+
+- [80. Remove Duplicates from Sorted Array II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/80)
+
+- [81. Search in Rotated Sorted Array II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/81)
+
+- [88. Merge Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/88)
+
+- [90. Subsets II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/90)

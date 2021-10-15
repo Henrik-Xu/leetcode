@@ -80,9 +80,19 @@
 
 [75. Sort Colors](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/75)
 
-[80.Remove Duplicates from Sorted List](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/80/Remove_Duplicates_from_Sorted_List.js)
+[77. Combinations](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/77)
 
-[88.Merge Sorted Array](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/88/Merge_Sorted_Array.js)
+[78. Subsets](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/78)
+
+[79. Word Search](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/79)
+
+[80. Remove Duplicates from Sorted Array II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/80)
+
+[81. Search in Rotated Sorted Array II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/81)
+
+[88. Merge Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/88)
+
+[90. Subsets II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/90)
 
 [94. Binary Tree Inorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/94)
 
