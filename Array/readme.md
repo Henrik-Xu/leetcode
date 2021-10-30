@@ -73,3 +73,17 @@
 - [88. Merge Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/88)
 
 - [90. Subsets II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/90)
+
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/105)
+
+- [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/106)
+
+- [108. Convert Sorted Array to Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/108)
+
+- [118. Pascal's Triangle](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/118)
+
+- [119. Pascal's Triangle II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/119)
+
+- [120. Triangle](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/120)
+
+- [121. Best Time to Buy and Sell Stock](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/121)
