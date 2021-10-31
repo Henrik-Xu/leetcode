@@ -142,19 +142,29 @@
 
 [121. Best Time to Buy and Sell Stock](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/121)
 
-[122.Best Time to Buy and Sell Stock II](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/122/Best_Time_to_Buy_and_Sell_Stock_II.js)
+[122. Best Time to Buy and Sell Stock II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/122)
 
 [125.Valid Palindrome](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/125/Valid_Palindrome.js)
 
+[128. Longest Consecutive Sequence](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/128)
+
 [129. Sum Root to Leaf Numbers](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/129)
 
-[136.Single Number](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/136)
+[130. Surrounded Regions](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/130)
+
+[134. Gas Station](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/134)
+
+[136. Single Number](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/136)
 
 [141.Linked List Cycle](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/141)
 
 [144. Binary Tree Preorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/144)
 
 [145. Binary_Tree_Postorder_Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/145)
+
+[150. Evaluate Reverse Polish Notation](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/150)
+
+[152. Maximum Product Subarray](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/152)
 
 [155.Min Stack](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/155/Min_Stack.js)
 

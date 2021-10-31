@@ -86,4 +86,16 @@
 
 - [120. Triangle](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/120)
 
-- [121. Best Time to Buy and Sell Stock](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/121)
+- [122. Best Time to Buy and Sell Stock II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/122)
+
+- [128. Longest Consecutive Sequence](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/128)
+
+- [130. Surrounded Regions](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/130)
+
+- [134. Gas Station](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/134)
+
+- [136. Single Number](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/136)
+
+- [150. Evaluate Reverse Polish Notation](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/150)
+
+- [152. Maximum Product Subarray](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/152)
