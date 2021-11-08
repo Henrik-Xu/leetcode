@@ -99,3 +99,17 @@
 - [150. Evaluate Reverse Polish Notation](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/150)
 
 - [152. Maximum Product Subarray](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/152)
+
+- [153. Find Minimum in Rotated Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/153)
+
+- [162. Find Peak Element](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/162)
+
+- [167. Two Sum II - Input Array Is Sorted](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/167)
+
+- [169. Majority Element](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/169)
+
+- [189. Rotate Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/189)
+
+- [198. House Robber](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/198)
+
+- [200. Number of Islands](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/200)
