@@ -113,3 +113,19 @@
 - [198. House Robber](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/198)
 
 - [200. Number of Islands](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/200)
+
+- [204. Count Primes](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/204)
+
+- [209. Minimum Size Subarray Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/209)
+
+- [213. House Robber II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/213)
+
+- [215. Kth Largest Element in an Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/215)
+
+- [216. Combination Sum III](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/216)
+
+- [217. Contains Duplicate](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/217)
+
+- [219. Contains Duplicate II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/219)
+
+- [220. Contains Duplicate III](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/220)

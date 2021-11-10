@@ -206,164 +206,22 @@
 
 [197.Rising Temperature](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/197/Rising_Temperature.js)
 
-[\*198.House Robber](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/198/House_Robber.js)
+[198. House Robber](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/198)
 
-[199. Binary Tree Right Side View](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/199)
+[200. Number of Islands](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/200)
 
-[202.Happy Number](https://github.com/Damon-Salvatore/leetcode/blob/js/problems/202/Happy_Number.js)
+[204. Count Primes](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/204)
 
-[203.Remove Linked List Elements](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/203)
+[209. Minimum Size Subarray Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/209)
 
-[204.Count Primes](https://github.com/Damon-Salvatore/leetcode/tree/js/problems/204)
+[213. House Robber II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/213)
 
-[222. Count Complete Tree Nodes](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/222)
+[215. Kth Largest Element in an Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/215)
 
-[226. Invert Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/226)
+[216. Combination Sum III](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/216)
 
-[230. Kth Smallest Element in a BST](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/230)
+[217. Contains Duplicate](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/217)
 
-[235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/235)
+[219. Contains Duplicate II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/219)
 
-[404. Sum of Left Leave](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/404)
-
-[437. Path Sum III](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/437)
-
-[449. Serialize and Deserialize BST](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/449)
-
-[450. Delete Node in a BST](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/450)
-
-[501. Find Mode in Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/501)
-
-[508. Most Frequent Subtree Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/508)
-
-[513. Find Bottom Left Tree Value](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/513)
-
-[515. Find Largest Value in Each Tree Row](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/515)
-
-[530. Minimum Absolute Difference in BST](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/530)
-
-[538. Convert BST to Greater Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/538)
-
-[543. Diameter of Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/543)
-
-[563. Binary Tree Tilt](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/563)
-
-[572. Subtree of Another Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/572)
-
-[606. Construct String from binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/606)
-
-[617. Merge Two Binary Trees](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/617)
-
-[623. Add One Row to Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/623)
-
-[637. Average of Levels in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/637)
-
-[652. Find Duplicate Subtrees](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/652)
-
-[653. Two Sum IV Input is a BST](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/653)
-
-[654. Maximum Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/654)
-
-[655. Print Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/655)
-
-[662. Maximum Width of Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/662)
-
-[669. Trim a Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/669)
-
-[671. Second Minimum Node In a Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/671)
-
-[687. Longest Univalue Path](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/687)
-
-[429. N-ary Tree Level Order Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/429)
-
-[559. Maximum Depth of N-ary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/559)
-
-[589. N-ary Tree Preorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/589)
-
-[590. N-ary Tree Postorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/590)
-
-[700. Search in a Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/700)
-
-[701. Insert into a Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/701)
-
-[783. Minimum Distance Between BST Nodes](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/783)
-
-[814. Binary Tree Pruning](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/814)
-
-[863. All Nodes Distance K in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/863)
-
-[865. Smallest Subtree with all the Deepest Nodes](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/865)
-
-[872. Leaf-Similar Trees](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/872)
-
-[889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/889)
-
-[894. All Possible Full Binary Trees](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/894)
-
-[897. Increasing Order Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/897)
-
-[919. Complete Binary Tree Inserter](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/919)
-
-[965. Univalued Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/965)
-
-[971. Flip Binary Tree To Match Preorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/971)
-
-[979. Distribute Coins in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/979)
-
-[988. Smallest String Starting From Leaf](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/988)
-
-[993. Cousins in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/993)
-
-[998. Maximum Binary Tree II](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/998)
-
-[1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1008)
-
-[1022. Sum of Root To Leaf Binary Numbers](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1022)
-
-[1026. Maximum Difference Between Node and Ancestor](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1026)
-
-[1038. Binary Search Tree to Greater Sum Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1038)
-
-[1080. Insufficient Nodes in Root to Leaf Paths](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1080)
-
-[1104. Path In Zigzag Labelled Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1104)
-
-[1110. Delete Nodes And Return Forest](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1110)
-
-[1123. Lowest Common Ancestor of Deepest Leaves](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1123)
-
-[1145. Binary Tree Coloring Game](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1145)
-
-[1161. Maximum Level Sum of a Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1161)
-
-[1261. Find Elements in a Contaminated Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1261)
-
-[1302. Deepest Leaves Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1302)
-
-[1305. All Elements in Two Binary Search Trees](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1305)
-
-[1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1315)
-
-[1325. Delete Leaves With a Given Value](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1325)
-
-[1339. Maximum Product of Splitted Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1339)
-
-[1367. Linked List in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1367)
-
-[1372. Longest ZigZag Path in a Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1372)
-
-[1373. Maximum Sum BST in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1373)
-
-[1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1379)
-
-[1382. Balance a Binary Search Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1382)
-
-[1448. Count Good Nodes in Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1448)
-
-[1457. Pseudo-Palindromic Paths in a Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1457)
-
-[1530. Number of Good Leaf Nodes Pairs](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1530)
-
-[1600. Throne Inheritance](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1600)
-
-[1609. Even Odd Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Tree/1609)
+[220. Contains Duplicate III](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/220)
