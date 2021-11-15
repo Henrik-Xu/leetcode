@@ -129,3 +129,17 @@
 - [219. Contains Duplicate II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/219)
 
 - [220. Contains Duplicate III](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/220)
+
+- [221. Maximal Square](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/221)
+
+- [228. Summary Ranges](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/228)
+
+- [238. Product of Array Except Self](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/238)
+
+- [240. Search a 2D Matrix II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/240)
+
+- [268. Missing Number](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/268)
+
+- [274. H-Index](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/274)
+
+- [275. H-Index II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/275)
