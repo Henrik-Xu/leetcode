@@ -143,3 +143,17 @@
 - [274. H-Index](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/274)
 
 - [275. H-Index II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/275)
+
+- [283. Move Zeroes](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/283)
+
+- [284. Peeking Iterator](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/284)
+
+- [287. Find the Duplicate Number](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/287)
+
+- [300. Longest Increasing Subsequence](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/300)
+
+- [303. Range Sum Query - Immutable](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/303)
+
+- [304. Range Sum Query 2D - Immutable](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/304)
+
+- [307. Range Sum Query - Mutable](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/307)
