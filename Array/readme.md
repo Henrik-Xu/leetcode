@@ -157,3 +157,13 @@
 - [304. Range Sum Query 2D - Immutable](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/304)
 
 - [307. Range Sum Query - Mutable](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/307)
+
+- [313. Super Ugly Number](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/313)
+
+- [318. Maximum Product of Word Lengths](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/318)
+
+- [322. Coin Change](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/322)
+
+- [324. Wiggle Sort II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/324)
+
+- [334. Increasing Triplet Subsequence](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/334)
