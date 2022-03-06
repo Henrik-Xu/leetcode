@@ -167,3 +167,9 @@
 - [324. Wiggle Sort II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/324)
 
 - [334. Increasing Triplet Subsequence](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/334)
+
+- [347. Top K Frequent Elements](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/347)
+
+- [349. Intersection of Two Arrays](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/349)
+
+- [350. Intersection of Two Arrays II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/350)
