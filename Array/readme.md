@@ -173,3 +173,11 @@
 - [349. Intersection of Two Arrays](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/349)
 
 - [350. Intersection of Two Arrays II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/350)
+
+- [368. Largest Divisible Subset](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/368)
+
+- [373. Find K Pairs with Smallest Sums](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/373)
+
+- [377. Combination Sum IV](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/377)
+
+- [378. Kth Smallest Element in a Sorted Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/378)
