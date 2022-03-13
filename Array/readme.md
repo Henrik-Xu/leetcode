@@ -181,3 +181,7 @@
 - [377. Combination Sum IV](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/377)
 
 - [378. Kth Smallest Element in a Sorted Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/378)
+
+- [380. Insert Delete GetRandom O(1)](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/380)
+
+- [384. Shuffle an Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/384)
