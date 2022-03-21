@@ -185,3 +185,9 @@
 - [380. Insert Delete GetRandom O(1)](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/380)
 
 - [384. Shuffle an Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/384)
+
+- [413. Arithmetic Slices](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/413)
+
+- [414. Third Maximum Number](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/414)
+
+- [416. Partition Equal Subset Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/384)
