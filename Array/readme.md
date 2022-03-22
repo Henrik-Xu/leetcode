@@ -191,3 +191,11 @@
 - [414. Third Maximum Number](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/414)
 
 - [416. Partition Equal Subset Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/384)
+
+- [419. Battleships in a Board](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/419)
+
+- [435. Non-overlapping Intervals](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/435)
+
+- [436. Find Right Interval](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/436)
+
+- [442. Find All Duplicates in an Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/442)
