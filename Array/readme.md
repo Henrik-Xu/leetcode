@@ -199,3 +199,11 @@
 - [436. Find Right Interval](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/436)
 
 - [442. Find All Duplicates in an Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/442)
+
+- [447.Number of Boomerangs](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/447)
+
+- [448. Find All Numbers Disappeared in an Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/448)
+
+- [453. Minimum Moves to Equal Array Elements](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/453)
+
+- [454. 4Sum II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/454)
