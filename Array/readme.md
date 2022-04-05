@@ -207,3 +207,17 @@
 - [453. Minimum Moves to Equal Array Elements](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/453)
 
 - [454. 4Sum II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/454)
+
+- [455. Assign Cookies](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/455)
+
+- [456. 132 Pattern](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/456)
+
+- [457. Circular Array Loop](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/457)
+
+- [462. Minimum Moves to Equal Array Elements II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/462)
+
+- [463. Island Perimeter](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/463)
+
+- [473. Matchsticks to Square](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/473)
+
+- [474. Ones and Zeroes](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/474)
