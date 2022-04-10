@@ -221,3 +221,17 @@
 - [473. Matchsticks to Square](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/473)
 
 - [474. Ones and Zeroes](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/474)
+
+- [477. Total Hamming Distance](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/477)
+
+- [485. Max Consecutive Ones](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/485)
+
+- [491. Increasing Subsequences](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/491)
+
+- [494. Target Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/494)
+
+- [495. Teemo Attacking](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/495)
+
+- [496. Next Greater Element I](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/496)
+
+- [498. Diagonal Traverse](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/498)
