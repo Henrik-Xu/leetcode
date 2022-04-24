@@ -226,6 +226,8 @@
 
 - [485. Max Consecutive Ones](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/485)
 
+- [486. Predict the Winner](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/486)
+
 - [491. Increasing Subsequences](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/491)
 
 - [494. Target Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/494)
