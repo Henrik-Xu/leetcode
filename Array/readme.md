@@ -237,3 +237,11 @@
 - [496. Next Greater Element I](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/496)
 
 - [498. Diagonal Traverse](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/498)
+
+- [500. Relative Ranks](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/500)
+
+- [503. Next Greater Element II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/503)
+
+- [506. Relative Ranks](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/506)
+
+- [518. Coin Change 2](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/518)
