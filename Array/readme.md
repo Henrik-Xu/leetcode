@@ -245,3 +245,9 @@
 - [506. Relative Ranks](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/506)
 
 - [518. Coin Change 2](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/518)
+
+- [522. Longest Uncommon Subsequence II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/522)
+
+- [523. Continuous Subarray Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/523)
+
+- [524. Longest Word in Dictionary through Deleting](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/524)
