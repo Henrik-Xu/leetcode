@@ -251,3 +251,13 @@
 - [523. Continuous Subarray Sum](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/523)
 
 - [524. Longest Word in Dictionary through Deleting](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/524)
+
+- [525. Contiguous Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/525)
+
+- [526. Beautiful Arrangement](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/526)
+
+- [532. K-diff Pairs in an Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/532)
+
+- [539. Minimum Time Difference](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/539)
+
+- [540. Single Element in a Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/540)
