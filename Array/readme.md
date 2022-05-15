@@ -261,3 +261,17 @@
 - [539. Minimum Time Difference](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/539)
 
 - [540. Single Element in a Sorted Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/540)
+
+- [542. 01 Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/542)
+
+- [553. Optimal Division](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/553)
+
+- [560. Subarray Sum Equals K](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/560)
+
+- [561. Array Partition I](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/561)
+
+- [565. Array Nesting](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/565)
+
+- [566. Reshape the Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/566)
+
+- [575. Distribute Candies](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/575)
