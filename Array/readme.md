@@ -275,3 +275,13 @@
 - [566. Reshape the Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/566)
 
 - [575. Distribute Candies](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/575)
+
+- [581. Shortest Unsorted Continuous Subarray](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/581)
+
+- [594. Longest Harmonious Subsequence](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/594)
+
+- [598. Range Addition II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/598)
+
+- [599. Minimum Index Sum of Two Lists](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/599)
+
+- [605. Can Place Flowers](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/605)
