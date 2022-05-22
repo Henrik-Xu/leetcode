@@ -285,3 +285,7 @@
 - [599. Minimum Index Sum of Two Lists](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/599)
 
 - [605. Can Place Flowers](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/605)
+
+- [609. Find Duplicate File in System](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/609)
+
+- [611. Valid Triangle Number](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/611)
