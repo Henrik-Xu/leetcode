@@ -289,3 +289,17 @@
 - [609. Find Duplicate File in System](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/609)
 
 - [611. Valid Triangle Number](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/611)
+
+- [622. Design Circular Queue](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/622)
+
+- [628. Maximum Product of Three Numbers](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/628)
+
+- [641. Design Circular Deque](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/641)
+
+- [643. Maximum Average Subarray I](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/643)
+
+- [645. Set Mismatch](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/645)
+
+- [646. Maximum Length of Pair Chain](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/646)
+
+- [654. Maximum Binary Tree](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/654)
