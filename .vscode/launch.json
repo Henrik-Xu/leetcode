@@ -8,7 +8,9 @@
       "type": "pwa-node",
       "request": "launch",
       "name": "Debug JavaScript",
-      "skipFiles": ["<node_internals>/**"],
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
       "program": "${file}"
     }
   ]
