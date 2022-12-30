@@ -309,3 +309,9 @@
 - [667. Beautiful Arrangement II](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/665)
 
 - [673. Number of Longest Increasing Subsequence](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/665)
+
+- [674. Longest Continuous Increasing Subsequence](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/674)
+
+- [684. Baseball Game](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/684)
+
+- [697. Degree of an Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/697)
