@@ -315,3 +315,9 @@
 - [684. Baseball Game](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/684)
 
 - [697. Degree of an Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/697)
+
+- [698. Partition to K Equal Sum Subsets](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/698)
+
+- [704. Binary Search](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/704)
+- [705. Design HashSet](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/705)
+- [706. Design HashMap](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/706)
