@@ -161,3 +161,6 @@
 - [704. Binary Search](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/704)
 - [705. Design HashSet](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/705)
 - [706. Design HashMap](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/706)
+- [713. Subarray Product Less Than K](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/713)
+- [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/714)
+- [717. 1-bit and 2-bit Characters](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/717)
