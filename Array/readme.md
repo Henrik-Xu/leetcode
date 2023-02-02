@@ -164,3 +164,6 @@
 - [713. Subarray Product Less Than K](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/713)
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/714)
 - [717. 1-bit and 2-bit Characters](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/717)
+- [718. Maximum Length of Repeated Subarray](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/718)
+- [720. Longest Word in Dictionary](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/720)
+- [724. Find Pivot Index](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/724)
