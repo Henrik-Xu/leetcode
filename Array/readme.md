@@ -167,3 +167,7 @@
 - [718. Maximum Length of Repeated Subarray](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/718)
 - [720. Longest Word in Dictionary](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/720)
 - [724. Find Pivot Index](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/724)
+- [733. Flood Fill](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/733)
+- [735. Asteroid Collision](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/735)
+- [739. Daily Temperatures](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/739)
+- [741. Delete and Earn](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/741)

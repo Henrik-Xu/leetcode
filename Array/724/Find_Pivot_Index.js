@@ -7,10 +7,13 @@ let pivotIndex = function (nums) {
     sum += num;
   }
   for (let i = 0; i < nums.length; i++) {
-    if (leftSum = sum - leftSum - nums[i]) {
+    if (leftSum == sum - leftSum - nums[i]) {
       return i;
     }
     leftSum += nums[i];
   }
   return -1;
 };
+let  nums = [1,7,3,6,5,6];
+let res = pivotIndex(nums);
+console.log(res);
