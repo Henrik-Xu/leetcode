@@ -171,3 +171,7 @@
 - [735. Asteroid Collision](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/735)
 - [739. Daily Temperatures](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/739)
 - [741. Delete and Earn](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/741)
+- [744. Find Smallest Letter Greater Than Target](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/744)
+- [746. Min Cost Climbing Stairs](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/746)
+- [747. Largest Number At Least Twice of Others](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/747)
+- [748. Shortest Completing Word](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/748)
