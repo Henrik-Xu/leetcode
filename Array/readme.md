@@ -175,3 +175,6 @@
 - [746. Min Cost Climbing Stairs](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/746)
 - [747. Largest Number At Least Twice of Others](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/747)
 - [748. Shortest Completing Word](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/748)
+- [752. Open the Lock](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/752)
+- [764. Largest Plus Sign](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/764)
+- [766. Toeplitz Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/766)
