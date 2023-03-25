@@ -178,3 +178,6 @@
 - [752. Open the Lock](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/752)
 - [764. Largest Plus Sign](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/764)
 - [766. Toeplitz Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/766)
+- [769. Max Chunks To Make Sorted](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/769)
+- [775. Global and Local Inversions](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/775)
+- [781. Rabbits in Forest](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/781)
