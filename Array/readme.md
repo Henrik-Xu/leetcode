@@ -181,3 +181,6 @@
 - [769. Max Chunks To Make Sorted](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/769)
 - [775. Global and Local Inversions](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/775)
 - [781. Rabbits in Forest](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/781)
+- [786. K-th Smallest Prime Fraction](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/786)
+- [789. Escape The Ghosts](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/789)
+- [794. Valid Tic-Tac-Toe State](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/794)
