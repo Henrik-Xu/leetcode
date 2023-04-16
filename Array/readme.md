@@ -190,3 +190,6 @@
 - [809. Expressive Words](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/809)
 - [811. Subdomain Visit Count](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/811)
 - [812. Largest Triangle Area](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/812)
+- [813. Largest Sum of Averages](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/813)
+- [817. Linked List Components](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/817)
+- [820. Short Encoding of Words](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/820)
