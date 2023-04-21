@@ -193,3 +193,6 @@
 - [813. Largest Sum of Averages](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/813)
 - [817. Linked List Components](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/817)
 - [820. Short Encoding of Words](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/820)
+- [821. Shortest Distance to a Character](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/821)
+- [822. Card Flipping Game](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/822)
+- [823. Binary Trees With Factors](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/823)
