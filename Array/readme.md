@@ -196,3 +196,6 @@
 - [821. Shortest Distance to a Character](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/821)
 - [822. Card Flipping Game](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/822)
 - [823. Binary Trees With Factors](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/823)
+- [825. Friends Of Appropriate Ages](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/825)
+- [826. Most Profit Assigning Work](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/826)
+- [832. Flipping an Image](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/832)
