@@ -202,3 +202,6 @@
 - [833. Find And Replace in String](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/833)
 - [835. Image Overlap](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/835)
 - [840. Magic Squares In Grid](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/840)
+- [845. Longest Mountain in Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/845)
+- [846. Hand of Straights](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/846)
+- [848. Shifting Letters](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/848)
