@@ -199,3 +199,6 @@
 - [825. Friends Of Appropriate Ages](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/825)
 - [826. Most Profit Assigning Work](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/826)
 - [832. Flipping an Image](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/832)
+- [833. Find And Replace in String](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/833)
+- [835. Image Overlap](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/835)
+- [840. Magic Squares In Grid](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/840)
