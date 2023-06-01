@@ -205,3 +205,6 @@
 - [845. Longest Mountain in Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/845)
 - [846. Hand of Straights](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/846)
 - [848. Shifting Letters](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/848)
+- [849. Maximize Distance to Closest Person](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/849)
+- [851. Loud and Rich](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/851)
+- [852. Peak Index in a Mountain Array](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/852)
