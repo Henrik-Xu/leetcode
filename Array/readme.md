@@ -214,3 +214,7 @@
 - [867. Transpose Matrix](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/867)
 - [870. Advantage Shuffle](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/870)
 - [873. Length of Longest Fibonacci Subsequence](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/873)
+- [874. Walking Robot Simulation](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/874)
+- [875. Koko Eating Bananas](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/875)
+- [877. Stone Game](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/877)
+- [881. Boats to Save People](https://github.com/Damon-Salvatore/leetcode/tree/js/Array/881)
