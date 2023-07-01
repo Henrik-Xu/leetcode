@@ -59,3 +59,8 @@
 - [234. Palindrome Linked List](./234/Palindrome_Linked_List.js)
 - [242. Valid Anagram](./242/Valid_Anagram.js)
 - [257. Binary Tree Paths](./257/Binary_Tree_Paths.js)
+- [258. Add Digits](./258/Add_Digits.js)
+- [263. Ugly Number](./263/Ugly_Number.js)
+- [268. Missing Number](./268/Missing_Number.js)
+- [278. First Bad Version](./278/First_Bad_Version.js)
+- [283. Move Zeroes ](./283/Move_Zeroes.js)
