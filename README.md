@@ -19,3 +19,6 @@ leetcode 刷题之路
 ### SQL 专区
 
 [SQL](https://github.com/Damon-Salvatore/leetcode/tree/js/SQL)
+
+### Easy
+[Easy](./Easy/readme.md)
