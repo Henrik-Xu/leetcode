@@ -171,3 +171,8 @@
 - [804. Unique Morse Code Words](./804/Unique_Morse_Code_Words.js)
 - [806. Number of Lines To Write String](./806/Number_of_Lines_To_Write_String.js)
 - [812. Largest Triangle Area](./812/Largest_Triangle_Area.js)
+- [819. Most Common Word](./819/Most_Common_Word.js)
+- [821. Shortest Distance to a Character](./821/Shortest_Distance_to_a_Character.js)
+- [824. Goat Latin](./824/Goat_Latin.js)
+- [830. Positions of Large Groups](./830/Positions_of_Large_Groups.js)
+- [832. Flipping an Image](./832/Flipping_an_Image.js)
