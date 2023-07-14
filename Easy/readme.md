@@ -176,3 +176,7 @@
 - [824. Goat Latin](./824/Goat_Latin.js)
 - [830. Positions of Large Groups](./830/Positions_of_Large_Groups.js)
 - [832. Flipping an Image](./832/Flipping_an_Image.js)
+- [836. Rectangle Overlap](./836/Rectangle_Overlap.js)
+- [844. Backspace String Compare](./844/Backspace_String_Compare.js)
+- [860. Lemonade Change](./860/Lemonade_Change.js)
+- [867. Transpose Matrix](./867/Transpose_Matrix.js)
