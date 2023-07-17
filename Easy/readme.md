@@ -190,3 +190,7 @@
 - [896. Monotonic Array](./896/Monotonic_Array.js)
 - [897. Increasing Order Search Tree](./897/Increasing_Order_Search_Tree.js)
 - [905. Sort Array By Parity](./905/Sort_Array_By_Parity.js)
+- [908. Smallest Range](./908/Smallest_Range_I.js)
+- **[914. X of a Kind in a Deck of Cards](./914/X_of_a_Kind_in_a_Deck_of_Cards.js)**
+- [917. Reverse Only Letters](./917/Reverse_Only_Letters.js)
+- [922. Sort Array By Parity II](./922/Sort_Array_By_Parity_II.js)
