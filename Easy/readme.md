@@ -199,3 +199,13 @@
 - [938. Range Sum Of BST](./938/Range_Sum_of_BST.js)
 - [941. Valid Mountain Array](./941/Valid_Mountain_Array.js)
 - [942. DI String Match](./942/DI_String_Match.js)
+- [944. Delete Columns to Make Sorted](./944/Delete_Columns_to_Make_Sorted.js)
+- [953. Verifying an Alien Dictionary](./953/Verifying_an_Alien_Dictionary.js)
+- [961. N-Repeated Element in Size 2N Array](./961/N-Repeated_Element_in_Size_2N_Array.js)
+- [965. Univalued Binary Tree](./965/Univalued_Binary_Tree.js)
+- [976. Largest Perimeter Triangle](./976/Largest_Perimeter_Triangle.js)
+- [977. Squares of a Sorted Array](./977/Squares_of_a_Sorted_Array.js)
+- [989. Add to Array-Form of Integer](./989/Add_to_Array-Form_of_Integer.js)
+- [993. Cousins in Binary Tree](./993/Cousins_in_Binary_Tree.js)
+- [997. Find the Town Judge](./997/Find_the_Town_Judge.js)
+- **[999. Available Captures for Rook](./999/Available_Captures_for_Rook.js)**
