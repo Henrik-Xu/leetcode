@@ -194,3 +194,8 @@
 - **[914. X of a Kind in a Deck of Cards](./914/X_of_a_Kind_in_a_Deck_of_Cards.js)**
 - [917. Reverse Only Letters](./917/Reverse_Only_Letters.js)
 - [922. Sort Array By Parity II](./922/Sort_Array_By_Parity_II.js)
+- [929. Unique Eamil Addressed](./929/Unique_Email_Addresses.js)
+- [933. Number of Recent Calls](./933/Number_of_Recent_Calls.js)
+- [938. Range Sum Of BST](./938/Range_Sum_of_BST.js)
+- [941. Valid Mountain Array](./941/Valid_Mountain_Array.js)
+- [942. DI String Match](./942/DI_String_Match.js)
