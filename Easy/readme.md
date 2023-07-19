@@ -209,3 +209,11 @@
 - [993. Cousins in Binary Tree](./993/Cousins_in_Binary_Tree.js)
 - [997. Find the Town Judge](./997/Find_the_Town_Judge.js)
 - **[999. Available Captures for Rook](./999/Available_Captures_for_Rook.js)**
+- [1002. Find Common Characters](./1002/Find_Common_Characters.js)
+- [1005. Maximize Sum Of Array After K Negations](./1005/Maximize_Sum_Of_Array_After_K_Negations.js)
+- [1009. Complement of Base 10 Integer](./1009/Complement_of_Base_10_Integer.js)
+- [1013. Partition_Array_Into_Three_Parts_With_Equal_Sum](./1013/Partition_Array_Into_Three_Parts_With_Equal_Sum.js)
+- [1018. Binary Prefix Divisible By 5](./1018/Binary_Prefix_Divisible_By_5.js)
+- **[1021. Remove Outermost Parentheses](./1021/Remove_Outermost_Parentheses.js)**
+- [1022. Sum of Root To Leaf Binary Numbers](./1022/Sum_of_Root_To_Leaf_Binary_Numbers.js)
+- **[1030. Matrix Cells in Distance Order](./1030/Matrix_Cells_in_Distance_Order.js)**
