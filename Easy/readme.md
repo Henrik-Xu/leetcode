@@ -217,3 +217,13 @@
 - **[1021. Remove Outermost Parentheses](./1021/Remove_Outermost_Parentheses.js)**
 - [1022. Sum of Root To Leaf Binary Numbers](./1022/Sum_of_Root_To_Leaf_Binary_Numbers.js)
 - **[1030. Matrix Cells in Distance Order](./1030/Matrix_Cells_in_Distance_Order.js)**
+- [1037. Valid Boomerang](./1037/Valid_Boomerang.js)
+- [1046. Last Stone Weight](./1046/Last_Stone_Weight.js)
+- [1047. Remove All Adjacent Duplicates In String](./1047/Remove_All_Adjacent_Duplicates_In_String.js)
+- [1050. Actors and Directors Who Cooperated At Least Three Times](./1050/Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql)
+- [1051. Height Checker](./1051/Height_Checker.js)
+- [1068. Product Sales Analysis](./1068/Product_Sales_Analysis_I.sql)
+- [1071. Greatest Common Divisor of Strings](./1071/Greatest_Common_Divisor_of_Strings.js)
+- [1075. Project Employees I](./1075/Project_Employees_I.sql)
+- [1078. Occurrences After Bigram](./1078/Occurrences_After_Bigram.js)
+- [1084. Sales Analysis III](./1084/Sales_Analysis_III.sql)
