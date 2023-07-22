@@ -227,3 +227,13 @@
 - [1075. Project Employees I](./1075/Project_Employees_I.sql)
 - [1078. Occurrences After Bigram](./1078/Occurrences_After_Bigram.js)
 - [1084. Sales Analysis III](./1084/Sales_Analysis_III.sql)
+- **[1089. Duplicate Zeros](./1089/Duplicate_Zeros.js)**
+- [1103. Distribute Candies to People](./1103/Distribute_Candies_to_People.js)
+- [1108. Defanging an IP Address](./1108/Defanging_an_IP_Address.js)
+- [1114. Print in Order](./1114/Print_in_Order.cs)
+- [1122. Relative Sort Array](./1122/Relative_Sort_Array.js)
+- [1128. Number of Equivalent Domino Pairs](./1128/Number_of_Equivalent_Domino_Pairs.js)
+- [1137. N-th Tribonacci Number](./1137/N-th_Tribonacci_Number.js)
+- [1141. User Activity for the Past 30 Days I](./1141/User_Activity_for_the_Past_30_Days%20I.sql)
+- [1148. Article Views I](./1148/Article_Views_I.sql)
+- [1154. Day of the Year](./1154/Day_of_the_Year.js)
