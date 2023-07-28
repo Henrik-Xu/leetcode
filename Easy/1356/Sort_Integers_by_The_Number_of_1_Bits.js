@@ -13,5 +13,5 @@ let countone=function(number){
     return count;
 }
 let arr = [0,1,2,3,4,5,6,7,8];
-let res=sortByBits(arr);
+let res=sortByBits(arr); 
 console.log(res);

@@ -275,3 +275,8 @@
 - [1365. How Many Numbers Are Smaller Than the Current Number](./1365/How_Many_Numbers_Are_Smaller_Than_the_Current_Number.js)
 - [1370. Increasing Decreasing String](./1370/Increasing_Decreasing_String.js)
 - [1374. Generate a String With Characters That Have Odd Counts](./1374/Generate_a_String_With_Characters_That_Have_Odd_Counts.js)
+- [1378. Replace Employee ID With The Unique Identifier](./1378/Replace_Employee_ID_With_The_Unique_Identifier.sql)
+- [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./1379/Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree.js)
+- [1380. Lucky Numbers in a Matrix](./1380/Lucky_Numbers_in_a_Matrix.js)
+- [1385. Find the Distance Value Between Two Arrays](./1385/Find_the_Distance_Value_Between_Two_Arrays.js)
+- [1389. Create Target Array in the Given Order](./1389/Create_Target_Array_in_the_Given_Order.js)
