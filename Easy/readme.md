@@ -280,3 +280,8 @@
 - [1380. Lucky Numbers in a Matrix](./1380/Lucky_Numbers_in_a_Matrix.js)
 - [1385. Find the Distance Value Between Two Arrays](./1385/Find_the_Distance_Value_Between_Two_Arrays.js)
 - [1389. Create Target Array in the Given Order](./1389/Create_Target_Array_in_the_Given_Order.js)
+- [1394. Find Lucky Integer in an Array](./1394/Find_Lucky_Integer_in_an_Array.js)
+- [1399. Count Largest Group](./1399/Count_Largest_Group.js)
+- [1403. Minimum Subsequence in Non-Increasing Order](./1403/Minimum_Subsequence_in_Non-Increasing_Order.js)
+- [1407. Top Travellers](./1407/Top_Travellers.sql)
+- [1408. String Matching in an Array](./1408/String_Matching_in_an_Array.js)
