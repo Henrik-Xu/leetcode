@@ -304,3 +304,13 @@
 - [1496. Path Crossing](./1496/Path_Crossing.js)
 - [1502. Can Make Arithmetic Progression From Sequence](./1502/Can_Make_Arithmetic_Progression_From_Sequence.js)
 - [1507. Reformat Date](./1507/Reformat_Date.js)
+- [1512. Number of Good Pairs](./1512/Number_of_Good_Pairs.js)
+- [1517. Find Users With Valid E-Mails](./1517/Find_Users_With_Valid_E-Mails.sql)
+- [1518. Water Bottles](./1518/Water_Bottles.js)
+- [1523.  Count Odd Numbers in an Interval Range](./1523/Count_Odd_Numbers_in_an_Interval_Range.js)
+- [1527. Patients With a Condition](./1527/Patients_With_a_Condition.sql)
+- [1528. Shuffle String](./1528/Shuffle_String.js)
+- [1534. Count Good Triplets](./1534/Count_Good_Triplets.js)
+- **[1539. Kth Missing Positive Number](./1539/Kth_Missing_Positive_Number.js)**
+- [1544. Make The String Great](./1544/Make_The_String_Great.js)
+- [1550. Three Consecutive Odds](./1550/Three_Consecutive_Odds.js)
