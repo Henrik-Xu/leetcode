@@ -314,3 +314,11 @@
 - **[1539. Kth Missing Positive Number](./1539/Kth_Missing_Positive_Number.js)**
 - [1544. Make The String Great](./1544/Make_The_String_Great.js)
 - [1550. Three Consecutive Odds](./1550/Three_Consecutive_Odds.js)
+- [1556. Thousand Separator](./1556/Thousand_Separator.js)
+- [1560. Most Visited Sector in a Circular Track](./1560/Most_Visited_Sector_in_a_Circular_Track.js)
+- [1566. Detect Pattern of Length M Repeated K or More Times](./1566/Detect_Pattern_of_Length_M_Repeated_K_or_More_Times.js)
+- [1572. Matrix Diagonal Sum](./1572/Matrix_Diagonal_Sum.js)
+- [1576. Replace All ?'s to Avoid Consecutive Repeating Characters](./1576/Replace_All_?'s_to_Avoid_Consecutive_Repeating_Characters.js)
+- [1581. Customer Who Visited but Did Not Make Any Transactions](./1581/Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)
+- [1582. Matrix Diagonal Sum](./1572/Matrix_Diagonal_Sum.js)
+- [1587. Bank Account Summary II](./1587/Bank_Account_Summary_II.sql)
