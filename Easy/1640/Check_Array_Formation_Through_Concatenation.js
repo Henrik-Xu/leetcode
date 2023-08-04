@@ -13,12 +13,7 @@ var canFormArray = function(arr, pieces) {
     if(arr.length!=res.length){
         return false;
     }
-    for(let i=0;i<arr.length;i++){
-        if(arr[i]!=res[i]){
-            return false;
-        }
-    }
-    return true;
+    return arr.every((num, i) => num === res[i]);
 };
 let arr = [15,88], pieces = [[88],[15]];
 let res=canFormArray(arr,pieces);
