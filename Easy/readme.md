@@ -338,3 +338,13 @@
 - [1672. Richest Customer Wealth](./1672/Richest_Customer_Wealth.js)
 - [1678. Goal Parser Interpretation](./1678/Goal_Parser_Interpretation.js)
 - [1683. Invalid Tweets](./1683/Invalid_Tweets.sql)
+- [1684. Count the Number of Consistent Strings](./1684/Count_the_Number_of_Consistent_Strings.js)
+- [1688. Count of Matches in Tournament](./1688/Count_of_Matches_in_Tournament.js)
+- [1693. Daily Leads and Partners](./1693/Daily_Leads_and_Partners.sql)
+- [1694. ]
+- [1700. Number of Students Unable to Eat Lunch](./1700/Number_of_Students_Unable_to_Eat_Lunch.js)
+- [1704. Determine if String Halves Are Alike](./1704/Determine_if_String_Halves_Are_Alike.js)
+- [1710. Maximum Units on a Truck](./1710/Maximum_Units_on_a_Truck.js)
+- [1716. Calculate Money in Leetcode Bank](./1716/Calculate_Money_in_Leetcode_Bank.js)
+- [1720. Decode XORed Array](./1720/Decode_XORed_Array.js)
+- [1725. Number Of Rectangles That Can Form The Largest Square](./1725/Number_Of_Rectangles_That_Can_Form_The_Largest_Square.js)
