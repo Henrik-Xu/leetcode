@@ -357,3 +357,12 @@
 - [1748. Sum of Unique Elements](./1748/Sum_of_Unique_Elements.js)
 - [1752. Check if Array Is Sorted and Rotated](./1752/Check_if_Array_Is_Sorted_and_Rotated.js)
 - [1757. Recyclable and Low Fat Products](./1757/Recyclable_and_Low_Fat_Products.sql)
+- **[1763. Longest Nice Substring](./1763/Longest_Nice_Substring.js)**
+- [1768. Merge Strings Alternately](./1768/Merge_Strings_Alternately.js)
+- [1773. Count Items Matching a Rule](./1773/Count_Items_Matching_a_Rule.js)
+- [1779. Find Nearest Point That Has the Same X or Y Coordinate](./1779/Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate.js)
+- [1784. Check if Binary String Has at Most One Segment of Ones](./1784/Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones.js)
+- [1789. Primary Department for Each Employee](./1789/Primary_Department_for_Each_Employee.sql)
+- [1791. Find Center of Star Graph](./1791/Find_Center_of_Star_Graph.js)
+- [1795. Rearrange Products Table](./1795/Rearrange_Products_Table.sql)
+- [1796. Second Largest Digit in a String](./1796/Second_Largest_Digit_in_a_String.js)
