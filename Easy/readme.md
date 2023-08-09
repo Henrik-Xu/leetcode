@@ -376,3 +376,11 @@
 - [1837. Sum of Digits in Base K](./1837/Sum_of_Digits_in_Base_K.js)
 - [1844. Replace All Digits with Characters](./1844/Replace_All_Digits_with_Characters.js)
 - [1848. Minimum Distance to the Target Element](./1848/Minimum_Distance_to_the_Target_Element.js)
+- [1859. Sorting the Sentence](./1859/Sorting%20_the_Sentence.js)
+- **[1863. Sum of All Subset XOR Totals](./1863/Sum_of_All_Subset_XOR_Totals.js)**
+- [1869. Longer Contiguous Segments of Ones than Zeros](./1869/Longer_Contiguous_Segments_of_Ones_than_Zeros.js)
+- [1876. Substrings of Size Three with Distinct Characters](./1876/Substrings_of_Size_Three_with_Distinct_Characters.js)
+- [1880. Check if Word Equals Summation of Two Words](./1880/Check_if_Word_Equals_Summation_of_Two_Words.js)
+- **[1886. Determine Whether Matrix Can Be Obtained By Rotation](./1886/Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation.js)**
+- [1890. The Latest Login in 2020](./1890/The_Latest_Login_in_2020.sql)
+- [1893. Check if All the Integers in a Range Are Covered](./1893/Check%20if%20All%20the_Integers_in_a_Range_Are_Covered.js)
