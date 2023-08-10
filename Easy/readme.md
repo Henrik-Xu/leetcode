@@ -384,3 +384,13 @@
 - **[1886. Determine Whether Matrix Can Be Obtained By Rotation](./1886/Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation.js)**
 - [1890. The Latest Login in 2020](./1890/The_Latest_Login_in_2020.sql)
 - [1893. Check if All the Integers in a Range Are Covered](./1893/Check%20if%20All%20the_Integers_in_a_Range_Are_Covered.js)
+- [1903. Largest Odd Number in String](./1903/Largest_Odd_Number_in_String.js)
+- [1909. Remove One Element to Make the Array Strictly Increasing](./1909/Remove%20One_Element_to_Make_the_Array_Strictly_Increasing.js)
+- [1913. Maximum Product Difference Between Two Pairs](./1913/Maximum_Product_Difference_Between_Two_Pairs.js)
+- [1920. Build Array from Permutation](./1920/Build_Array_from_Permutation.js)
+- [1925. Count Square Sum Triples](./1925/Count_Square_Sum_Triples.js)
+- [1929. Concatenation of Array](./1929/Concatenation_of_Array.js)
+- [1935. Maximum Number of Words You Can Type](./1935/Maximum_Number_of_Words_You_Can_Type.js)
+- [1941. Check if All Characters Have Equal Number of Occurrences](./1941/Check%20if%20All_Characters_Have_Equal_Number_of_Occurrences.js)
+- [1945. Sum of Digits of String After Convert](./1945/Sum_of_Digits_of_String_After_Convert.js)
+- [1952. Three Divisors](./1952/Three_Divisors.js)
