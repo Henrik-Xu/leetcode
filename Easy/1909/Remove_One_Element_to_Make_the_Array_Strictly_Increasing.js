@@ -11,6 +11,6 @@ var canBeIncreasing = function(nums) {
     }
     return count <= 1
 };
-let nums = [1,2,10,5,7];
+let nums = [1,5,10,2,11];
 let res=canBeIncreasing(nums);
 console.log(res);
