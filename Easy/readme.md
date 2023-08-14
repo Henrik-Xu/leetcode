@@ -401,3 +401,12 @@
 - [1978. Employees Whose Manager Left the Company](./1978/Employees_Whose_Manager_Left_the_Company.sql)
 - [1979. Find Greatest Common Divisor of Array](./1979/Find_Greatest_Common_Divisor_of_Array.js)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./1984/Minimum%20Difference_Between_Highest_and_Lowest_of_K_Scores.js)
+- **[1995. Count Special Quadruplets](./1995/Count_Special_Quadruplets.js)**
+- [2000. Reverse Prefix of Word](./2000/Reverse_Prefix_of_Word.js)
+- [2006. Count Number of Pairs With Absolute Difference K](./2006/Count_Number_of_Pairs_With_Absolute_Difference_K.js)
+- [2011. Final Value of Variable After Performing Operations](./2011/Final_Value_of_Variable_After_Performing_Operations.js)
+- [2016. Maximum Difference Between Increasing Elements](./2016/Maximum%20DifferenceBetween_Increasing_Elements.js)
+- [2027. Minimum Moves to Convert String](./2027/Minimum_Moves_to_Convert_String.js)
+- [2032. Two Out of Three](./2032/Two_Out_of_Three.js)
+- [2037. Minimum Number of Moves to Seat Everyone](./2037/Minimum_Number_of_Moves_to_Seat_Everyone.js)
+- [2042. Check if Numbers Are Ascending in a Sentence](./2042/Checkif_Numbers_Are_Ascending_in_a_Sentence.js)
