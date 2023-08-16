@@ -1,0 +1,12 @@
+/**
+ * Count Equal and Divisible Pairs in an Array
+ */
+var countPairs = function(nums, k) {
+    let counter = 0;
+    for (let i = 0; i < nums.length; i++) {
+      for (let j = i + 1; j < nums.length; j++) {
+        nums[i] == nums[j] && ((i * j) % k) === 0 ? counter++ : null;
+      }
+    }
+    return counter;
+  }; 
