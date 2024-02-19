@@ -22,3 +22,6 @@ leetcode 刷题之路
 
 ### Easy
 [Easy](./Easy/readme.md)
+
+### Medium
+[Medium](./Medium/readme.md)
