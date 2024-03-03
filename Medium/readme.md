@@ -2,3 +2,6 @@
 - [2. Add Two Numbers](./2/Add_Two_Numbers.js)
 - [3. Longest Substring Without Repeating Characters](./3/Longest_Substring_Without_Repeating_Characters.js)
 - [5. Longest Palindromic Substring](./5/Longest_Palindromic_Substring.js)
+- [7. Reverse Integer](./7/Reverse_integer.js)
+- [8. String to Integer (atoi)](./8/String_to_Integer.js)
+- [11. Container With Most Water](./11/Container_With_Most_Water.js)
