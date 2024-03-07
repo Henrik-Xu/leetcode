@@ -5,3 +5,6 @@
 - [7. Reverse Integer](./7/Reverse_integer.js)
 - [8. String to Integer (atoi)](./8/String_to_Integer.js)
 - [11. Container With Most Water](./11/Container_With_Most_Water.js)
+- [12. Integer to Roman](./12/Integer_to_Roman.js)
+- [15. 3Sum](./15/3Sum.js)
+- [16. 3Sum Closest](./16/3Sum_Closest.js)
