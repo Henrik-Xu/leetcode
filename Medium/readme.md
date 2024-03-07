@@ -8,3 +8,5 @@
 - [12. Integer to Roman](./12/Integer_to_Roman.js)
 - [15. 3Sum](./15/3Sum.js)
 - [16. 3Sum Closest](./16/3Sum_Closest.js)
+- [17. Letter Combinations of a Phone Number](./17/Letter_Combinations_of_a_Phone_Number.js)
+- [18. 4Sum](./18/4Sum.js)
