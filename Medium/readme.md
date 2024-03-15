@@ -10,3 +10,7 @@
 - [16. 3Sum Closest](./16/3Sum_Closest.js)
 - [17. Letter Combinations of a Phone Number](./17/Letter_Combinations_of_a_Phone_Number.js)
 - [18. 4Sum](./18/4Sum.js)
+- [19. Remove Nth Node From End of List](./19/Remove_Nth_Node_From_End_of_List.js)
+- [22. Generate Parentheses](./22/Generate_Parentheses.js)
+- [24. Swap Nodes in Pairs](./24/Swap_Nodes_in_Pairs.js)
+- [29. Divide Two Integers](./29/Divide_Two_Integers.js)
