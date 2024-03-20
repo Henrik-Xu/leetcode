@@ -14,3 +14,5 @@
 - [22. Generate Parentheses](./22/Generate_Parentheses.js)
 - [24. Swap Nodes in Pairs](./24/Swap_Nodes_in_Pairs.js)
 - [29. Divide Two Integers](./29/Divide_Two_Integers.js)
+- [31. Next Permutation](./31/Next_Permutation.js)
+- [34. Find First and Last Position of Element in Sorted Array](./34/Find_First_and_Last_Position_of_Element_in_Sorted_Array.js)
