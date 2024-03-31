@@ -16,3 +16,7 @@
 - [29. Divide Two Integers](./29/Divide_Two_Integers.js)
 - [31. Next Permutation](./31/Next_Permutation.js)
 - [34. Find First and Last Position of Element in Sorted Array](./34/Find_First_and_Last_Position_of_Element_in_Sorted_Array.js)
+- [36. Valid Sudoku](./36/Valid_Sudoku.js)
+- [38. Count and Say](./38/Count_and_Say.js)
+- [39. Combination Sum](./39/Combination_Sum.js)
+- [40. Combination Sum II](./40/Combination_Sum_II.js)
