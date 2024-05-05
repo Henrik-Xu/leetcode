@@ -33,3 +33,6 @@
 - [56. Merge Intervals](./56/Merge_Intervals.js)
 - [57. Insert Interval](./57/Insert_Interval.js)
 - [59. Spiral Matrix II](./59/Spiral_Matrix_II.js)
+- [61. Rotate List](./61/Rotate_List.js)
+- [62. Unique Paths](./62/Unique_Paths.js)
+- [63. Unique Paths II](./63/Unique_Paths_II.js)
