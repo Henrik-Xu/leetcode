@@ -36,3 +36,6 @@
 - [61. Rotate List](./61/Rotate_List.js)
 - [62. Unique Paths](./62/Unique_Paths.js)
 - [63. Unique Paths II](./63/Unique_Paths_II.js)
+- [64. Minimum Path Sum](./64/Minimum_Path_Sum.js)
+- [71. Simplify Path](./71/Simplify_Path.js)
+- [72. Edit Distance](./72/Edit_Distance.js)
