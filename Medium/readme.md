@@ -39,3 +39,6 @@
 - [64. Minimum Path Sum](./64/Minimum_Path_Sum.js)
 - [71. Simplify Path](./71/Simplify_Path.js)
 - [72. Edit Distance](./72/Edit_Distance.js)
+- [73. Set Matrix Zeroes](./73/Set_Matrix_Zeroes.js)
+- [74. Search a 2D Matrix](./74/Search_a_2D_Matrix.js)
+- [75. Sort Colors](./75/Sort_Colors.js)
