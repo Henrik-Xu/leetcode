@@ -42,3 +42,6 @@
 - [73. Set Matrix Zeroes](./73/Set_Matrix_Zeroes.js)
 - [74. Search a 2D Matrix](./74/Search_a_2D_Matrix.js)
 - [75. Sort Colors](./75/Sort_Colors.js)
+- [77. Combinations](./77/Combinations.js)
+- [78. Subsets](./78/Subsets.js)
+- [79. Word Search](./79/Word_Search.js)
