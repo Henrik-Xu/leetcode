@@ -51,3 +51,8 @@
 - [86. Remove Duplicates from Sorted List II](./86/Partition_List.js)
 - [89. Gray Code](./89/Gray_Code.js)
 - [90. Subsets II](./90/Subsets_II.js)
+- [91. Decode Ways](./91/Decode_Ways.js)
+- [92. Reverse Linked List II](./92/Reverse_Linked_List_II.js)
+- [93. Restore IP Addresses](./93/Restore_IP_Addresses.js)
+- [95. Unique Binary Search Trees II](./95/Unique_Binary_Search_Trees_II.js)
+- [96. Unique Binary Search Trees](./96/Unique_Binary_Search_Trees.js)
