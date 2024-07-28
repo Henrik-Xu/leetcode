@@ -77,3 +77,6 @@
 - [131. Palindrome Partitioning](./131/Palindrome_Partitioning.js)
 - [133. Clone Graph](./133/Clone_Graph.js)
 - [134. Gas Station](./134/Gas_Station.js)
+- [138. Copy List with Random Pointer](./138/Copy_List_with_Random_Pointer.js)
+- [139. Word Break](./139/Word_Break.js)
+- [142. Linked List Cycle II](./142/Linked_List_Cycle_II.js)
