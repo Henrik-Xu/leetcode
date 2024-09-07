@@ -98,3 +98,7 @@
 - [173. Binary Search Tree Iterator](./173/Binary_Search_Tree_Iterator.js)
 - [179. Largest Number](./179/Largest_Number.js)
 - [187. Repeated DNA Sequences](./187/Repeated_DNA_Sequences.js)
+- [189. Rotate Array](./189/Rotate_Array.js)
+- [198. House Robber](./198/House_Robber.js)
+- [199. Binary Tree Right Side View](./199/Binary_Tree_Right_Side_View.js)
+- [200. Number of Islands](./200/Number_of_Islands.js)

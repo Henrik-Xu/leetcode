@@ -4,7 +4,7 @@
 var findRepeatedDnaSequences = function(s) {
     let res=[];
     let map=new Map();
-    for (let i = 0; i < s.length-10; i++) {
+    for (let i = 0; i <= s.length-10; i++) {
         let str=s.substring(i,i+10);
         if(map.has(str)){
             map.set(str,map.get(str)+1);
